@@ -30,4 +30,4 @@ Compositional Model
 See the [CONTRIBUTING](CONTRIBUTING.md) file for how to help out.
 
 ## License
-__________ is <YOUR LICENSE HERE> licensed, as found in the LICENSE file.
+APIsynth is <YOUR LICENSE HERE> licensed, as found in the LICENSE file.
